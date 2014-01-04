@@ -1,0 +1,17 @@
+[user]
+	name = zmao@ubuntu-vbox
+	email = maoze365@gmail.com
+[merge]
+	tool = vimdiff
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	diff = auto
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	unstage = reset HEAD --
+	last = log -1 HEAD
